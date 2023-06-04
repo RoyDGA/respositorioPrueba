@@ -1,0 +1,4 @@
+{
+  "code": "ResourceNotFound",
+  "message": "/v1/public/character?ts=1&apikey=d230199873967dcbe0d4b8cf8d5af604&hash=70ae1e5dd4d9c8518de5ded4f8985c5c does not exist"
+}
